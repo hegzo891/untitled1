@@ -12,7 +12,7 @@ public:
         cout << n;
     };
 };
-
+// hegazyfucksbedo
 
 int main() {
     ahmed m(9);
